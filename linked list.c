@@ -1,5 +1,5 @@
 	
-typedef	struct linked {
+typedef	struct linknd {
 		
 	int data;
 	void *next;
@@ -10,6 +10,6 @@ typedef	struct linked {
 
 //struct linked nd;
 
-
+static linknd_t *list; // linked List ½ÇÃ¼
 
 
